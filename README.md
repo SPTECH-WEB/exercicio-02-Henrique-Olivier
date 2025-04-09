@@ -2,7 +2,7 @@
 # 📘 Projeto Prático: Sistema de Entrega e Notificação com Design Patterns
 
 ## 🌟 Objetivo
-Este projeto tem como objetivo praticar a implementação dos padrões de projeto **Adapter**, **Strategy** e **Observer** utilizando **Java com Spring Boot**, simulando um sistema de logística de uma plataforma de e-commerce.
+Este projeto tem como objetivo praticar a implementação dos padrões de projeto **Adapter**, **Strategy** utilizando **Java com Spring Boot**, simulando um sistema de logística de uma plataforma de e-commerce.
 
 ---
 
